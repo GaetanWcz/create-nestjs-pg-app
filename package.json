@@ -1,0 +1,21 @@
+{
+  "name": "create-nestjs-pg-app",
+  "version": "1.0.0",
+  "bin": {
+    "create-nestjs-pg-app": "index.js"
+  },
+  "type": "module",
+  "keywords": [
+    "nestjs",
+    "starter",
+    "npx",
+    "scaffold"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "degit": "^2.8.4",
+    "execa": "^9.5.2",
+    "fs-extra": "^11.3.0",
+    "prompts": "^2.4.2"
+  }
+}
