@@ -1,6 +1,10 @@
 {
   "name": "create-nestjs-pg-app",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GaetanWcz/create-nestjs-pg-app.git"
+  },
   "bin": {
     "create-nestjs-pg-app": "index.js"
   },
